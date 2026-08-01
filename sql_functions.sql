@@ -1,3 +1,4 @@
+--sanket
 use statersql;
 
 -- INSERT INTO std (name, email, gender, date_of_birth, salary) VALUES
