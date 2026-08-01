@@ -1,4 +1,4 @@
-
+--sanku
 use sanku;
 -- delete from sanku where id=1;
 -- delete from sanku where gender='Female';
