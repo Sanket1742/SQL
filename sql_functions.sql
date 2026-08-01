@@ -1,4 +1,4 @@
---sanket
+
 use statersql;
 
 -- INSERT INTO std (name, email, gender, date_of_birth, salary) VALUES
@@ -28,6 +28,7 @@ select * from std;
 -- select name, gender,
 	-- if(gender='female','yes','no')as is_female
     -- from std;  ----(use for conditional logic)
+    
     
 
 
