@@ -169,7 +169,7 @@ If you found this project helpful, please consider giving it a **⭐ Star** on G
 
 **Sanket**
 
-Full Stack Developer | SQL Enthusiast | Web Developer
+Data Analyst  | SQL Enthusiast | Data Developer
 
 ---
 
