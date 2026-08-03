@@ -18,6 +18,7 @@ This repository includes SQL scripts covering:
 - SQL Functions
 - UPDATE & DELETE operations
 - JOIN queries
+- SELF Joints
 
 It is ideal for beginners learning MySQL or anyone preparing for SQL interviews and database exams.
 
@@ -110,6 +111,7 @@ USE sql_practice;
 - ✅ SQL Functions
 - ✅ Aggregate Functions
 - ✅ JOINS
+- ✅ SELF JOINS
 
 ---
 
