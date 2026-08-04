@@ -19,7 +19,7 @@ This repository includes SQL scripts covering:
 - UPDATE & DELETE operations
 - JOIN queries
 - SELF Joints
-- VIEW
+- VIEW 
 
 It is ideal for beginners learning MySQL or anyone preparing for SQL interviews and database exams.
 
