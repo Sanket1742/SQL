@@ -20,6 +20,7 @@ This repository includes SQL scripts covering:
 - JOIN queries
 - SELF Joints
 - subquery
+- Group by & Having
 
 It is ideal for beginners learning MySQL or anyone preparing for SQL interviews and database exams.
 
@@ -114,6 +115,7 @@ USE sql_practice;
 - ✅ JOINS
 - ✅ SELF JOINS
 - ✅ SUBQUERY
+- ✅ GROUP BY & HAVING
 
 ---
 
