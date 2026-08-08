@@ -24,7 +24,8 @@ This repository includes SQL scripts covering:
 =======
 - subquery
 - Group by & Having
->>>>>>> 107e7e1a95ca9b10a9b5f3d2ff78f763f85b66d4
+- Store Procedure
+
 
 It is ideal for beginners learning MySQL or anyone preparing for SQL interviews and database exams.
 
@@ -118,12 +119,11 @@ USE sql_practice;
 - ✅ Aggregate Functions
 - ✅ JOINS
 - ✅ SELF JOINS
-<<<<<<< HEAD
 - ✅ VIEW
-=======
 - ✅ SUBQUERY
 - ✅ GROUP BY & HAVING
->>>>>>> 107e7e1a95ca9b10a9b5f3d2ff78f763f85b66d4
+- ✅  STORE PROCEDURE
+
 
 ---
 
