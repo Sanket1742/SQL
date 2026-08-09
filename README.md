@@ -11,7 +11,7 @@ This repository includes SQL scripts covering:
 - Database creation   
 - Table creation
 - Data insertion
-- Constraints
+- Constraints  
 - Foreign Keys
 - SELECT queries
 - ALTER TABLE operations
