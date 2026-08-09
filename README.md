@@ -8,7 +8,7 @@ A beginner-friendly SQL practice repository containing essential SQL concepts, q
 
 This repository includes SQL scripts covering:
 
-- Database creation
+- Database creation   
 - Table creation
 - Data insertion
 - Constraints
