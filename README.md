@@ -22,7 +22,7 @@ This repository includes SQL scripts covering:
 <<<<<<< HEAD
 - VIEW  
 =======
-- subquery
+- subquery 
 - Group by & Having
 - Store Procedure
 
