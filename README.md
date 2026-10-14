@@ -2,7 +2,7 @@
     
 A beginner-friendly SQL practice repository containing essential SQL concepts, queries, and examples. This project is designed to help students and aspiring developers understand the fundamentals of SQL through hands-on practice.    
   
----  
+---     
      
 ## 📌 Project Overview
 
